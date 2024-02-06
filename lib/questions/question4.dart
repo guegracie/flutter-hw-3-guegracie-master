@@ -147,7 +147,7 @@ class _Question4State extends State<Question4> {
                 mainAxisAlignment: MainAxisAlignment.center, 
                 children: [
               Text("MusicLover Kitty",  style: TextStyle(fontSize: 20), ),
-              Text("Edinburg, Texas"),
+              Text("Spotify, Spotify"),
                 ],),
               Spacer(flex: 9),
               Icon(Icons.more_vert,)
